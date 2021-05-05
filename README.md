@@ -1,1 +1,3 @@
-# deep_learning_tensorflow
+# Deep Learning Cookbook
+
+Different notebooks to understand how Tensorflow & Keras work.
